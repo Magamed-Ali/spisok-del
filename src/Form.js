@@ -5,7 +5,7 @@ function Form(props) {
         <div>
             <div className="form">
                 <input
-                    placeholder=" Введите текст"
+                    placeholder="Введите текст/"
                     type="text"
                     value={props.text}
                     onChange={(e) =>
