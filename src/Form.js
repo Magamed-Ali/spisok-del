@@ -12,7 +12,7 @@ function Form(props) {
                         props.setText(e.target.value)}
                 />
                 <button onClick={props.addTodo}>
-                    добавить
+                    добавить +
 
                 </button>
             </div>
